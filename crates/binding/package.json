@@ -1,5 +1,5 @@
 {
-  "name": "@rspack-template/binding",
+  "name": "@rspack-template/test-binding",
   "version": "0.0.2",
   "homepage": "https://github.com/rspack-contrib/rspack-binding-template",
   "bugs": {
