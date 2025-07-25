@@ -1,13 +1,13 @@
 {
   "name": "@rspack-template/test-core",
   "version": "0.0.1",
-  "homepage": "https://github.com/rspack-contrib/rspack-binding-template",
+  "homepage": "https://github.com/h-a-n-a/my-rspack-binding",
   "bugs": {
-    "url": "https://github.com/rspack-contrib/rspack-binding-template/issues"
+    "url": "https://github.com/h-a-n-a/my-rspack-binding/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rspack-contrib/rspack-binding-template.git"
+    "url": "git+https://github.com/h-a-n-a/my-rspack-binding.git"
   },
   "packageManager": "pnpm@10.13.1",
   "main": "lib/index.js",
